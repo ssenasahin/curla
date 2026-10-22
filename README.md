@@ -2,6 +2,12 @@
 
 React ve Vite ile yazılmış basit bir döviz kuru çevirici. Kurları Avrupa Merkez Bankası'nın günlük referans kurlarını sunan [Frankfurter API](https://frankfurter.dev)'den alıyor. API anahtarı gerekmiyor.
 
+## Ekran görüntüleri
+
+![Çevirici ve popüler dövizler şeridi](screenshots/dashboard%20%282%29.png)
+
+![Kur tablosu](screenshots/dashboard%20%283%29.png)
+
 ## Neler var
 
 - Çevirici: Gönderilen ve alınan para birimini seçip tutarı yazınca güncel kurla çeviriyor. TRY dahil 30 para birimi destekleniyor.
