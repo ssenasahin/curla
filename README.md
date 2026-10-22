@@ -1,5 +1,7 @@
 # Kurla
 
+Canlı: https://curla.netlify.app
+
 React ve Vite ile yazılmış basit bir döviz kuru çevirici. Kurları Avrupa Merkez Bankası'nın günlük referans kurlarını sunan [Frankfurter API](https://frankfurter.dev)'den alıyor. API anahtarı gerekmiyor.
 
 ## Ekran görüntüleri
